@@ -1,0 +1,90 @@
+{
+  "info": {
+    "name": "嘉和一品（回龙观）",
+    "description": "外卖专送",
+    "deliveryTime": 28,
+    "score": 4.2,
+    "seviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "sellCount": 99,
+    "distance": 90,
+    "bulletin": "是以粥为特色的中式营养快餐，自2004年10月18日成立“嘉和一品”",
+    "supports": [
+      {
+        "type": 0,
+        "name": "首单",
+        "content": "新用户下单立减17元(不与其他活动同享)"
+      }
+    ]
+  },
+  "goods": [
+    {
+      "name": "优惠",
+      "icon": "https://baidu.com",
+      "foods": [
+        {
+          "name": "南瓜粥",
+          "price": 9,
+          "oldPrice": "",
+          "descriotion": "甜粥",
+          "sellCount": 91,
+          "rating": 100,
+          "info": "主、辅料：水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "3*******c",
+              "rateTime": 14692819640000,
+              "rateType": 0,
+              "text": "很喜欢的粥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "折扣",
+      "icon": "https://baidu.com",
+      "foods": [
+        {
+          "name": "南瓜粥",
+          "price | 10-20": 20,
+          "oldPrice": "",
+          "descriotion": "甜粥",
+          "sellCount": 91,
+          "rating": 100,
+          "info": "主、辅料：水、大米、南瓜、冰糖等",
+          "ratings": [
+            {
+              "username": "3*******c",
+              "rateTime": 14692819640000,
+              "rateType": 0,
+              "text": "很喜欢的粥"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ratings": [
+    {
+      "username": "3*******c",
+      "rateTime": 14692819640000,
+      "deliveryTime": 28,
+      "score": 5,
+      "rateType": 0,
+      "text": "不错，粥很好喝，我经常吃这一家，非常赞，以后也会经常来吃，强烈推荐",
+      "avatar": "https://baidu.com",
+      "recommand": [
+        "南瓜粥",
+        "皮蛋瘦肉粥",
+        "扁豆焖面",
+        "娃娃菜炖豆腐",
+        "牛肉馅饼"
+      ]
+    }
+  ]
+}
